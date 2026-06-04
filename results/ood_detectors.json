@@ -1,0 +1,7 @@
+{
+  "mahalanobis_threshold": 13652.787213491381,
+  "energy_threshold": -3.9436009883880616,
+  "combination_rule": "OR",
+  "maha_percentile": 95,
+  "energy_percentile": 5
+}

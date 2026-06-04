@@ -1,0 +1,9 @@
+
+{
+  "U_low_var": 0.0285,
+  "U_high_var": 0.0450,
+  "U_low_ent": 1.3500,
+  "U_high_ent": 1.8500,
+  "accept_acc_target": 0.80,
+  "flag_acc_target": 0.45
+}
